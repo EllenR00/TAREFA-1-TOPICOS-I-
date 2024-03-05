@@ -1,0 +1,28 @@
+:link html
+body {
+    background-color: #ddd;
+    font-family: "Helvetica Neue", sans-serif;
+    color: #444;
+    line-height: 1.5;
+    width: 60%;
+    margin: 0 auto;
+    padding: 2% 0;
+}
+
+main {
+    background-color: #fff;
+}
+
+h1, h2, h3, h4 {
+    color: rgb(140, 76, 8);
+}
+
+section {
+    border-top: 2px solid rgb(140, 76, 8);
+    padding-top: 20px; 
+}
+
+img {
+    max-width: 100%; /* Ajuste para garantir que a imagem não ultrapasse a largura da seção */
+    border-radius: 50%; /* Adiciona borda circular à imagem */
+}
